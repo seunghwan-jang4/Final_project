@@ -93,8 +93,8 @@ OTT에서 제공하는 콘텐츠(영화/드라마/애니메이션)를 분석 및
 
 ### ERD
 <details>
-<summary>ERD 버전</summary>
-ERD 1.0 <img src = https://github.com/user-attachments/assets/0fffd09e-036f-426a-ac29-901c0dbfdca1>
+<summary>ERD 1.0 </summary>
+<img src = https://github.com/user-attachments/assets/0fffd09e-036f-426a-ac29-901c0dbfdca1>
 
 
 </details>
