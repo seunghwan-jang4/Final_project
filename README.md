@@ -89,7 +89,7 @@ OTT에서 제공하는 콘텐츠를 분석 및 분류하여 **사용자 맞춤�
 <details>
 <summary>내용 보기</summary>
 
-(공백)
+![프로젝트구조(12조)](https://github.com/user-attachments/assets/7565ee2b-c461-42dc-8c59-af33f6ab26da)
 
 </details>
 
