@@ -18,27 +18,13 @@ OTT에서 제공하는 콘텐츠(영화/드라마/애니메이션)를 분석 및
 ### 개발 일정
 - **12월 30일 ~ 1월 3일**: 역할 분담 및 아이디어 정리, SA문서, README 작성, 와이어프레임 작성
 - 이후 일정은 추가 예정
-
+  
 </details>
 
----
-
-## 🌟 프로젝트 선정이유
-
 <details>
-<summary>내용 보기</summary>
-
-요즘은 각 OTT마다 많은 양의 미디어가 범람합니다.
-각 플랫폼 별로 본인의 취향에 맞는 미디어만을 추천받을 수 있다면, 번거로움 없이 바로 컨텐츠에 몰입 가능할 것이라는 생각에 출발했습니다. 
-
-</details>
-
----
-
-## 📁 프로젝트 구조
-
-<details>
-<summary>내용 보기</summary>
+<summary>폴더 구조</summary>
+   
+### 폴더 구조 
 
 ```bash
 OTTRecommendationSystem/   # (1) repository_root
@@ -75,6 +61,29 @@ OTTRecommendationSystem/   # (1) repository_root
 │  │  └─ myapp/
 │  └─ manage.py
 ```
+
+</details>
+
+---
+
+## 🌟 프로젝트 선정이유
+
+<details>
+<summary>내용 보기</summary>
+
+요즘은 각 OTT마다 많은 양의 미디어가 범람합니다.
+각 플랫폼 별로 본인의 취향에 맞는 미디어만을 추천받을 수 있다면, 번거로움 없이 바로 컨텐츠에 몰입 가능할 것이라는 생각에 출발했습니다. 
+
+</details>
+
+---
+
+## 📁 프로젝트 구조
+
+<details>
+<summary>내용 보기</summary>
+
+(공백)
 
 </details>
 
@@ -217,6 +226,10 @@ python manage.py runserver
 <image (1) src = https://github.com/user-attachments/assets/b3abd6a2-bf37-4c42-89c8-3842f104225f>
 </details>
 
+<details>
+<summary>ERD 1.11 </summary>
+<image (2) src = https://github.com/user-attachments/assets/6ad73f79-c7a4-4ce6-9bff-8bda5e604938>
+</details>
 
 ### 레퍼런스 
 <details>
